@@ -1,0 +1,12 @@
+# Java / Maven
+target/
++.mvn/wrapper/maven-wrapper.jar
++.idea/
++.classpath
++.project
++.settings/
++*.iml
++
++# Playwright
++playwright-report/
++test-results/
